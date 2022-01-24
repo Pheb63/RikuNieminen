@@ -4,3 +4,19 @@ body{
 div{
     background-color: darkgrey;
 }
+
+nav {
+    color: chocolate;
+    background-color: honeydew;
+}
+form{
+    background-color: greenyellow;
+    color: black;
+}
+div{
+    color:yellow;
+    background-color: grey;
+}
+footer{
+    background-color: yellow;
+}
